@@ -8,6 +8,13 @@ payload:
     - DOMAIN,alt7-mtalk.google.com
     - DOMAIN,alt8-mtalk.google.com
     - DOMAIN,mtalk.google.com
+    - DOMAIN-SUFFIX,services.googleapis.cn
+    - DOMAIN-SUFFIX,play.googleapis.com
+    - DOMAIN,connectivitycheck.gstatic.com
+    - DOMAIN-SUFFIX,android.clients.google.com
+    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+    - DOMAIN-SUFFIX,apple
+    - DOMAIN-KEYWORD,apple
     - IP-CIDR,64.233.177.188/32
     - IP-CIDR,64.233.186.188/32
     - IP-CIDR,64.233.187.188/32
