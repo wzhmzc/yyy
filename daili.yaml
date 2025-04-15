@@ -34,275 +34,275 @@ payload:
     - IP-CIDR,173.194.175.188/32
     - IP-CIDR,173.194.218.188/32
     - IP-CIDR,209.85.233.188/32
-    - DOMAIN-SUFFIX,edgedatg.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,go.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,abematv.akamaized.net, 🌍 哪都通机场
-    - DOMAIN,api-abematv.bucketeer.jp, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,abema-tv.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,abema.io, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,abema.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,ameba.jp, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hayabusa.io, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hayabusa.media, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,c4assets.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,channel4.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,avoddashs, 🌍 哪都通机场
-    - DOMAIN,atv-ps.amazon.com, 🌍 哪都通机场
-    - DOMAIN,avodmp4s3ww-a.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,d1v5ir2lpwr8os.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,d1xfray82862hr.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,d22qjgkvxw22r6.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,d25xi40x97liuc.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,d27xxe7juh1us6.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,d3196yreox78o9.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,dmqdd6hw24ucf.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,ktpx.amazon.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,aboutamazon.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,aiv-cdn.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,aiv-delivery.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,amazon.jobs, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,amazonuniversity.jobs, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,amazonvideo.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,media-amazon.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,pv-cdn.net, 🌍 哪都通机场
-    - DOMAIN,gspe1-ssl.ls.apple.com, 🌍 哪都通机场
-    - DOMAIN,np-edge.itunes.apple.com, 🌍 哪都通机场
-    - DOMAIN,play-edge.itunes.apple.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,tv.apple.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,bbcfmt, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,uk-live, 🌍 哪都通机场
-    - DOMAIN,aod-dash-uk-live.akamaized.net, 🌍 哪都通机场
-    - DOMAIN,aod-hls-uk-live.akamaized.net, 🌍 哪都通机场
-    - DOMAIN,vod-dash-uk-live.akamaized.net, 🌍 哪都通机场
-    - DOMAIN,vod-thumb-uk-live.akamaized.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bbc.co, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bbc.co.uk, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bbc.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bbc.net.uk, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bbci.co, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bbci.co.uk, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bidi.net.uk, 🌍 哪都通机场
-    - DOMAIN,bahamut.akamaized.net, 🌍 哪都通机场
-    - DOMAIN,gamer-cds.cdn.hinet.net, 🌍 哪都通机场
-    - DOMAIN,gamer2-cds.cdn.hinet.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bahamut.com.tw, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,gamer.com.tw, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,voddazn, 🌍 哪都通机场
-    - DOMAIN,d151l6v8er5bdm.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dazn-api.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dazn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dazndn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dcblivedazn.akamaized.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,indazn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,indaznlab.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,sentry.io, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,deezer.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dzcdn.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disco-api.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,discovery.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,uplynk.com, 🌍 哪都通机场
-    - DOMAIN,cdn.registerdisney.go.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,adobedtm.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bam.nr-data.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,bamgrid.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,braze.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,cdn.optimizely.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,cdn.registerdisney.go.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,cws.conviva.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,d9.flashtalking.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disney-plus.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disney-portal.my.onetrust.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disney.demdex.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disney.my.sentry.io, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disneyplus.bn5x.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disneyplus.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,disneystreaming.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dssott.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,js-agent.newrelic.com, 🌍 哪都通机场
-    - DOMAIN,bcbolt446c5271-a.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,content.jwplatform.com, 🌍 哪都通机场
-    - DOMAIN,edge.api.brightcove.com, 🌍 哪都通机场
-    - DOMAIN,videos-f.jwpsrv.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,encoretvb.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,fox.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,foxdcg.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,uplynk.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hbo.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hbogo.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hbomax.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hbomaxcdn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hbonow.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,.hbogoasia., 🌍 哪都通机场
-    - DOMAIN-KEYWORD,hbogoasia, 🌍 哪都通机场
-    - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, 🌍 哪都通机场
-    - DOMAIN,bcbolthboa-a.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net, 🌍 哪都通机场
-    - DOMAIN,dai3fd1oh325y.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,hboasia1-i.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,hboasia2-i.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,hboasia3-i.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,hboasia4-i.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,hboasia5-i.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN,hboasialive.akamaized.net, 🌍 哪都通机场
-    - DOMAIN,hbogoprod-vod.akamaized.net, 🌍 哪都通机场
-    - DOMAIN,hbolb.onwardsmg.com, 🌍 哪都通机场
-    - DOMAIN,hbounify-prod.evergent.com, 🌍 哪都通机场
-    - DOMAIN,players.brightcove.net, 🌍 哪都通机场
-    - DOMAIN,s3-ap-southeast-1.amazonaws.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hboasia.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hbogoasia.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hbogoasia.hk, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,5itv.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,ocnttv.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,cws-hulu.conviva.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hulu.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hulu.hb.omtrdc.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hulu.sc.omtrdc.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,huluad.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,huluim.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hulustream.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,happyon.jp, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hjholdings.jp, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,hulu.jp, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,prod.hjholdings.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,streaks.jp, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,yb.uncn.jp, 🌍 哪都通机场
-    - DOMAIN,itvpnpmobile-a.akamaihd.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,itv.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,itvstatic.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,jooxweb-api, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,joox.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,japonx, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,japronx, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japonx.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japonx.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japonx.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japonx.vip, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japronx.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japronx.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japronx.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,japronx.vip, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,kfs.io, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,kkbox.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,kkbox.com.tw, 🌍 哪都通机场
-    - DOMAIN,kktv-theater.kk.stream, 🌍 哪都通机场
-    - DOMAIN,theater-kktv.cdn.hinet.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,kktv.com.tw, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,kktv.me, 🌍 哪都通机场
-    - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,litv.tv, 🌍 哪都通机场
-    - DOMAIN,d3c7rimkq79yfu.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,linetv.tw, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,profile.line-scdn.net, 🌍 哪都通机场
-    - DOMAIN,d349g9zuie06uo.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,channel5.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,my5.tv, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,nowtv100, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,rthklive, 🌍 哪都通机场
-    - DOMAIN,mytvsuperlimited.hb.omtrdc.net, 🌍 哪都通机场
-    - DOMAIN,mytvsuperlimited.sc.omtrdc.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,mytvsuper.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,tvb.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,dualstack.apiproxy-, 🌍 哪都通机场
+    - DOMAIN-SUFFIX,edgedatg.com
+    - DOMAIN-SUFFIX,go.com
+    - DOMAIN-KEYWORD,abematv.akamaized.net
+    - DOMAIN,api-abematv.bucketeer.jp
+    - DOMAIN-SUFFIX,abema-tv.com
+    - DOMAIN-SUFFIX,abema.io
+    - DOMAIN-SUFFIX,abema.tv
+    - DOMAIN-SUFFIX,ameba.jp
+    - DOMAIN-SUFFIX,hayabusa.io
+    - DOMAIN-SUFFIX,hayabusa.media
+    - DOMAIN-SUFFIX,c4assets.com
+    - DOMAIN-SUFFIX,channel4.com
+    - DOMAIN-KEYWORD,avoddashs
+    - DOMAIN,atv-ps.amazon.com
+    - DOMAIN,avodmp4s3ww-a.akamaihd.net
+    - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+    - DOMAIN,d1xfray82862hr.cloudfront.net
+    - DOMAIN,d22qjgkvxw22r6.cloudfront.net
+    - DOMAIN,d25xi40x97liuc.cloudfront.net
+    - DOMAIN,d27xxe7juh1us6.cloudfront.net
+    - DOMAIN,d3196yreox78o9.cloudfront.net
+    - DOMAIN,dmqdd6hw24ucf.cloudfront.net
+    - DOMAIN,ktpx.amazon.com
+    - DOMAIN-SUFFIX,aboutamazon.com
+    - DOMAIN-SUFFIX,aiv-cdn.net
+    - DOMAIN-SUFFIX,aiv-delivery.net
+    - DOMAIN-SUFFIX,amazon.jobs
+    - DOMAIN-SUFFIX,amazonuniversity.jobs
+    - DOMAIN-SUFFIX,amazonvideo.com
+    - DOMAIN-SUFFIX,media-amazon.com
+    - DOMAIN-SUFFIX,pv-cdn.net
+    - DOMAIN,gspe1-ssl.ls.apple.com
+    - DOMAIN,np-edge.itunes.apple.com
+    - DOMAIN,play-edge.itunes.apple.com
+    - DOMAIN-SUFFIX,tv.apple.com
+    - DOMAIN-KEYWORD,bbcfmt
+    - DOMAIN-KEYWORD,uk-live
+    - DOMAIN,aod-dash-uk-live.akamaized.net
+    - DOMAIN,aod-hls-uk-live.akamaized.net
+    - DOMAIN,vod-dash-uk-live.akamaized.net
+    - DOMAIN,vod-thumb-uk-live.akamaized.net
+    - DOMAIN-SUFFIX,bbc.co
+    - DOMAIN-SUFFIX,bbc.co.uk
+    - DOMAIN-SUFFIX,bbc.com
+    - DOMAIN-SUFFIX,bbc.net.uk
+    - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+    - DOMAIN-SUFFIX,bbci.co
+    - DOMAIN-SUFFIX,bbci.co.uk
+    - DOMAIN-SUFFIX,bidi.net.uk
+    - DOMAIN,bahamut.akamaized.net
+    - DOMAIN,gamer-cds.cdn.hinet.net
+    - DOMAIN,gamer2-cds.cdn.hinet.net
+    - DOMAIN-SUFFIX,bahamut.com.tw
+    - DOMAIN-SUFFIX,gamer.com.tw
+    - DOMAIN-KEYWORD,voddazn
+    - DOMAIN,d151l6v8er5bdm.cloudfront.net
+    - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
+    - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
+    - DOMAIN-SUFFIX,dazn-api.com
+    - DOMAIN-SUFFIX,dazn.com
+    - DOMAIN-SUFFIX,dazndn.com
+    - DOMAIN-SUFFIX,dcblivedazn.akamaized.net
+    - DOMAIN-SUFFIX,indazn.com
+    - DOMAIN-SUFFIX,indaznlab.com
+    - DOMAIN-SUFFIX,sentry.io
+    - DOMAIN-SUFFIX,deezer.com
+    - DOMAIN-SUFFIX,dzcdn.net
+    - DOMAIN-SUFFIX,disco-api.com
+    - DOMAIN-SUFFIX,discovery.com
+    - DOMAIN-SUFFIX,uplynk.com
+    - DOMAIN,cdn.registerdisney.go.com
+    - DOMAIN-SUFFIX,adobedtm.com
+    - DOMAIN-SUFFIX,bam.nr-data.net
+    - DOMAIN-SUFFIX,bamgrid.com
+    - DOMAIN-SUFFIX,braze.com
+    - DOMAIN-SUFFIX,cdn.optimizely.com
+    - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+    - DOMAIN-SUFFIX,cws.conviva.com
+    - DOMAIN-SUFFIX,d9.flashtalking.com
+    - DOMAIN-SUFFIX,disney-plus.net
+    - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+    - DOMAIN-SUFFIX,disney.demdex.net
+    - DOMAIN-SUFFIX,disney.my.sentry.io
+    - DOMAIN-SUFFIX,disneyplus.bn5x.net
+    - DOMAIN-SUFFIX,disneyplus.com
+    - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+    - DOMAIN-SUFFIX,disneystreaming.com
+    - DOMAIN-SUFFIX,dssott.com
+    - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+    - DOMAIN-SUFFIX,js-agent.newrelic.com
+    - DOMAIN,bcbolt446c5271-a.akamaihd.net
+    - DOMAIN,content.jwplatform.com
+    - DOMAIN,edge.api.brightcove.com
+    - DOMAIN,videos-f.jwpsrv.com
+    - DOMAIN-SUFFIX,encoretvb.com
+    - DOMAIN-SUFFIX,fox.com
+    - DOMAIN-SUFFIX,foxdcg.com
+    - DOMAIN-SUFFIX,uplynk.com
+    - DOMAIN-SUFFIX,hbo.com
+    - DOMAIN-SUFFIX,hbogo.com
+    - DOMAIN-SUFFIX,hbomax.com
+    - DOMAIN-SUFFIX,hbomaxcdn.com
+    - DOMAIN-SUFFIX,hbonow.com
+    - DOMAIN-KEYWORD,.hbogoasia.
+    - DOMAIN-KEYWORD,hbogoasia
+    - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+    - DOMAIN,bcbolthboa-a.akamaihd.net
+    - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+    - DOMAIN,dai3fd1oh325y.cloudfront.net
+    - DOMAIN,hboasia1-i.akamaihd.net
+    - DOMAIN,hboasia2-i.akamaihd.net
+    - DOMAIN,hboasia3-i.akamaihd.net
+    - DOMAIN,hboasia4-i.akamaihd.net
+    - DOMAIN,hboasia5-i.akamaihd.net
+    - DOMAIN,hboasialive.akamaized.net
+    - DOMAIN,hbogoprod-vod.akamaized.net
+    - DOMAIN,hbolb.onwardsmg.com
+    - DOMAIN,hbounify-prod.evergent.com
+    - DOMAIN,players.brightcove.net
+    - DOMAIN,s3-ap-southeast-1.amazonaws.com
+    - DOMAIN-SUFFIX,hboasia.com
+    - DOMAIN-SUFFIX,hbogoasia.com
+    - DOMAIN-SUFFIX,hbogoasia.hk
+    - DOMAIN-SUFFIX,5itv.tv
+    - DOMAIN-SUFFIX,ocnttv.com
+    - DOMAIN-SUFFIX,cws-hulu.conviva.com
+    - DOMAIN-SUFFIX,hulu.com
+    - DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+    - DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+    - DOMAIN-SUFFIX,huluad.com
+    - DOMAIN-SUFFIX,huluim.com
+    - DOMAIN-SUFFIX,hulustream.com
+    - DOMAIN-SUFFIX,happyon.jp
+    - DOMAIN-SUFFIX,hjholdings.jp
+    - DOMAIN-SUFFIX,hulu.jp
+    - DOMAIN-SUFFIX,prod.hjholdings.tv
+    - DOMAIN-SUFFIX,streaks.jp
+    - DOMAIN-SUFFIX,yb.uncn.jp
+    - DOMAIN,itvpnpmobile-a.akamaihd.net
+    - DOMAIN-SUFFIX,itv.com
+    - DOMAIN-SUFFIX,itvstatic.com
+    - DOMAIN-KEYWORD,jooxweb-api
+    - DOMAIN-SUFFIX,joox.com
+    - DOMAIN-KEYWORD,japonx
+    - DOMAIN-KEYWORD,japronx
+    - DOMAIN-SUFFIX,japonx.com
+    - DOMAIN-SUFFIX,japonx.net
+    - DOMAIN-SUFFIX,japonx.tv
+    - DOMAIN-SUFFIX,japonx.vip
+    - DOMAIN-SUFFIX,japronx.com
+    - DOMAIN-SUFFIX,japronx.net
+    - DOMAIN-SUFFIX,japronx.tv
+    - DOMAIN-SUFFIX,japronx.vip
+    - DOMAIN-SUFFIX,kfs.io
+    - DOMAIN-SUFFIX,kkbox.com
+    - DOMAIN-SUFFIX,kkbox.com.tw
+    - DOMAIN,kktv-theater.kk.stream
+    - DOMAIN,theater-kktv.cdn.hinet.net
+    - DOMAIN-SUFFIX,kktv.com.tw
+    - DOMAIN-SUFFIX,kktv.me
+    - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+    - DOMAIN-SUFFIX,litv.tv
+    - DOMAIN,d3c7rimkq79yfu.cloudfront.net
+    - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+    - DOMAIN-SUFFIX,linetv.tw
+    - DOMAIN-SUFFIX,profile.line-scdn.net
+    - DOMAIN,d349g9zuie06uo.cloudfront.net
+    - DOMAIN-SUFFIX,channel5.com
+    - DOMAIN-SUFFIX,my5.tv
+    - DOMAIN-KEYWORD,nowtv100
+    - DOMAIN-KEYWORD,rthklive
+    - DOMAIN,mytvsuperlimited.hb.omtrdc.net
+    - DOMAIN,mytvsuperlimited.sc.omtrdc.net
+    - DOMAIN-SUFFIX,mytvsuper.com
+    - DOMAIN-SUFFIX,tvb.com
+    - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+    - DOMAIN-KEYWORD,dualstack.apiproxy-
     - DOMAIN-SUFFIX,phncdn.com
     - DOMAIN-SUFFIX,phprcdn.com
     - DOMAIN-SUFFIX,pornhub.com
     - DOMAIN-SUFFIX,pornhubpremium.com
     - DOMAIN-SUFFIX,pronstore.com
     - PROCESS-NAME,com.app.pornhub
-    - IP-CIDR,8.41.4.0/24, 🌍 哪都通机场
-    - IP-CIDR,23.246.0.0/18, 🌍 哪都通机场
-    - IP-CIDR,37.77.184.0/21, 🌍 哪都通机场
-    - IP-CIDR,38.72.126.0/24, 🌍 哪都通机场
-    - IP-CIDR,45.57.0.0/17, 🌍 哪都通机场
-    - IP-CIDR,64.120.128.0/17, 🌍 哪都通机场
-    - IP-CIDR,66.197.128.0/17, 🌍 哪都通机场
-    - IP-CIDR,69.53.224.0/19, 🌍 哪都通机场
-    - IP-CIDR,103.87.204.0/22, 🌍 哪都通机场
-    - IP-CIDR,108.175.32.0/20, 🌍 哪都通机场
-    - IP-CIDR,185.2.220.0/22, 🌍 哪都通机场
-    - IP-CIDR,185.9.188.0/22, 🌍 哪都通机场
-    - IP-CIDR,192.173.64.0/18, 🌍 哪都通机场
-    - IP-CIDR,198.38.96.0/19, 🌍 哪都通机场
-    - IP-CIDR,198.45.48.0/20, 🌍 哪都通机场
-    - IP-CIDR,207.45.72.0/22, 🌍 哪都通机场
-    - IP-CIDR,208.75.76.0/22, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dmc.nico, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nicovideo.jp, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nimg.jp, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,nivod, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,biggggg.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,mudvod.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nbys.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nbys1.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nbyy.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,newpppp.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nivod.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nivodi.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,nivodz.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,vod360.net, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,olevod, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,haiwaikan.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,iole.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,olehd.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,olelive.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,olevod.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,olevod.io, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,olevod.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,olevodtv.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,stripe.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,pbs.org, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,pandora.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,phncdn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,phprcdn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,pornhub.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,pornhubpremium.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,qobuz.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,p-cdn.us, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,sndcdn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,soundcloud.com, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,-spotify-, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,spotify.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,pscdn.co, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,scdn.co, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,spoti.fi, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,spotify.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,spotifycdn.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,spotifycdn.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,tidal.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,tidalhifi.com, 🌍 哪都通机场
-    - DOMAIN,hamifans.emome.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,skyking.com.tw, 🌍 哪都通机场
-    - DOMAIN-KEYWORD,ttvnw, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,ext-twitch.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,jtvnw.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,ttvnw.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,twitch-ext.rootonline.de, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,twitch.tv, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,twitchcdn.net, 🌍 哪都通机场
-    - PROCESS-NAME,com.viu.pad, 🌍 哪都通机场
-    - PROCESS-NAME,com.viu.phone, 🌍 哪都通机场
-    - PROCESS-NAME,com.vuclip.viu, 🌍 哪都通机场
-    - DOMAIN,api.viu.now.com, 🌍 哪都通机场
-    - DOMAIN,d1k2us671qcoau.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,d2anahhhmp1ffz.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN,dfp6rglgjqszk.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,viu.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,viu.now.com, 🌍 哪都通机场
-    - DOMAIN-SUFFIX,viu.tv, 🌍 哪都通机场
+    - IP-CIDR,8.41.4.0/24
+    - IP-CIDR,23.246.0.0/18
+    - IP-CIDR,37.77.184.0/21
+    - IP-CIDR,38.72.126.0/24
+    - IP-CIDR,45.57.0.0/17
+    - IP-CIDR,64.120.128.0/17
+    - IP-CIDR,66.197.128.0/17
+    - IP-CIDR,69.53.224.0/19
+    - IP-CIDR,103.87.204.0/22
+    - IP-CIDR,108.175.32.0/20
+    - IP-CIDR,185.2.220.0/22
+    - IP-CIDR,185.9.188.0/22
+    - IP-CIDR,192.173.64.0/18
+    - IP-CIDR,198.38.96.0/19
+    - IP-CIDR,198.45.48.0/20
+    - IP-CIDR,207.45.72.0/22
+    - IP-CIDR,208.75.76.0/22
+    - DOMAIN-SUFFIX,dmc.nico
+    - DOMAIN-SUFFIX,nicovideo.jp
+    - DOMAIN-SUFFIX,nimg.jp
+    - DOMAIN-KEYWORD,nivod
+    - DOMAIN-SUFFIX,biggggg.com
+    - DOMAIN-SUFFIX,mudvod.tv
+    - DOMAIN-SUFFIX,nbys.tv
+    - DOMAIN-SUFFIX,nbys1.tv
+    - DOMAIN-SUFFIX,nbyy.tv
+    - DOMAIN-SUFFIX,newpppp.com
+    - DOMAIN-SUFFIX,nivod.tv
+    - DOMAIN-SUFFIX,nivodi.tv
+    - DOMAIN-SUFFIX,nivodz.com
+    - DOMAIN-SUFFIX,vod360.net
+    - DOMAIN-KEYWORD,olevod
+    - DOMAIN-SUFFIX,haiwaikan.com
+    - DOMAIN-SUFFIX,iole.tv
+    - DOMAIN-SUFFIX,olehd.com
+    - DOMAIN-SUFFIX,olelive.com
+    - DOMAIN-SUFFIX,olevod.com
+    - DOMAIN-SUFFIX,olevod.io
+    - DOMAIN-SUFFIX,olevod.tv
+    - DOMAIN-SUFFIX,olevodtv.com
+    - DOMAIN-SUFFIX,stripe.com
+    - DOMAIN-SUFFIX,pbs.org
+    - DOMAIN-SUFFIX,pandora.com
+    - DOMAIN-SUFFIX,phncdn.com
+    - DOMAIN-SUFFIX,phprcdn.com
+    - DOMAIN-SUFFIX,pornhub.com
+    - DOMAIN-SUFFIX,pornhubpremium.com
+    - DOMAIN-SUFFIX,qobuz.com
+    - DOMAIN-SUFFIX,p-cdn.us
+    - DOMAIN-SUFFIX,sndcdn.com
+    - DOMAIN-SUFFIX,soundcloud.com
+    - DOMAIN-KEYWORD,-spotify-
+    - DOMAIN-KEYWORD,spotify.com
+    - DOMAIN-SUFFIX,pscdn.co
+    - DOMAIN-SUFFIX,scdn.co
+    - DOMAIN-SUFFIX,spoti.fi
+    - DOMAIN-SUFFIX,spotify.com
+    - DOMAIN-SUFFIX,spotifycdn.com
+    - DOMAIN-SUFFIX,spotifycdn.net
+    - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+    - DOMAIN-SUFFIX,tidal.com
+    - DOMAIN-SUFFIX,tidalhifi.com
+    - DOMAIN,hamifans.emome.net
+    - DOMAIN-SUFFIX,skyking.com.tw
+    - DOMAIN-KEYWORD,ttvnw
+    - DOMAIN-SUFFIX,ext-twitch.tv
+    - DOMAIN-SUFFIX,jtvnw.net
+    - DOMAIN-SUFFIX,ttvnw.net
+    - DOMAIN-SUFFIX,twitch-ext.rootonline.de
+    - DOMAIN-SUFFIX,twitch.tv
+    - DOMAIN-SUFFIX,twitchcdn.net
+    - PROCESS-NAME,com.viu.pad
+    - PROCESS-NAME,com.viu.phone
+    - PROCESS-NAME,com.vuclip.viu
+    - DOMAIN,api.viu.now.com
+    - DOMAIN,d1k2us671qcoau.cloudfront.net
+    - DOMAIN,d2anahhhmp1ffz.cloudfront.net
+    - DOMAIN,dfp6rglgjqszk.cloudfront.net
+    - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+    - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+    - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
+    - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+    - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+    - DOMAIN-SUFFIX,viu.com
+    - DOMAIN-SUFFIX,viu.now.com
+    - DOMAIN-SUFFIX,viu.tv
     - DOMAIN-SUFFIX,1password.com
     - DOMAIN-SUFFIX,adguard.org
     - DOMAIN-SUFFIX,bit.no.com
